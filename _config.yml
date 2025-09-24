@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Qiuying Ma'animation lab # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name: 
 last_name: 
-email: wangchengjun@nju.edu.cn
+email: 1272186938@qq.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Know Thyself.
+  The Two Dimensionalization of the World.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords:hobbies and interests, academic-website, a work done casually  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -70,9 +70,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: chengjun # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: ChengJunWang # your Twitter handle
+github_username: Qiuying # your GitHub user name
+gitlab_username: qiuyin621# your GitLab user name
+twitter_username: QiuyingMa # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Wang]
-  first_name: [Cheng-Jun]
+  last_name: [Ma]
+  first_name: [Qiu-ying]
 
   style: apa
   locale: en
